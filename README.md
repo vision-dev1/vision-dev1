@@ -78,9 +78,9 @@ I'm actively expanding my cybersecurity knowledge, specializing in ethical hacki
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=vision-dev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vision-dev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -118,11 +118,15 @@ I'm actively expanding my cybersecurity knowledge, specializing in ethical hacki
 
 ## 🚀 Featured Projects
 
-<!-- Add your pinned repositories or featured projects here -->
-- 🔗https://vision-dev1.github.io/expenses-tracker/
+<div align="center">
 
-- 🔗 [Project 2](#) - Brief description
-- 🔗 [Project 3](#) - Brief description
+### 🏍️ [HellBound MC](https://hellboundmc.netlify.app)
+A motorcycle club website featuring club information, events, and member profiles
+
+### 💰 [Expenses Tracker](https://vision-dev1.github.io/expenses-tracker/)
+A web application to track and manage personal expenses efficiently
+
+</div>
 
 ---
 
@@ -152,10 +156,14 @@ Sometimes I spend hours hacking my own apps (ethically!) just for fun 🔐💻
 
 <div align="center">
   
-### 💭 *"Security is not a product, but a process."* - Bruce Schneier
+### 💭 *"Security is not a product, but a process."* 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **⭐ From [vision-dev1](https://github.com/vision-dev1)**
 
 </div>
+
+
+
+
