@@ -78,7 +78,7 @@ I'm actively expanding my cybersecurity knowledge, specializing in ethical hacki
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vision-dev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vision-dev1&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=tokyonight&hide_border=true)
 
@@ -156,14 +156,10 @@ Sometimes I spend hours hacking my own apps (ethically!) just for fun 🔐💻
 
 <div align="center">
   
-### 💭 *"Security is not a product, but a process."* 
+### 💭 *"Security is not a product, but a process."* - Bruce Schneier
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **⭐ From [vision-dev1](https://github.com/vision-dev1)**
 
 </div>
-
-
-
-
