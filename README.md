@@ -119,7 +119,8 @@ I'm actively expanding my cybersecurity knowledge, specializing in ethical hacki
 ## 🚀 Featured Projects
 
 <!-- Add your pinned repositories or featured projects here -->
-- 🔗 [Project 1](#) - Brief description
+- 🔗https://vision-dev1.github.io/expenses-tracker/
+
 - 🔗 [Project 2](#) - Brief description
 - 🔗 [Project 3](#) - Brief description
 
