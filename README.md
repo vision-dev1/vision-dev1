@@ -53,7 +53,7 @@ I'm a passionate developer with a strong focus on building secure and robust app
 - 📱 Develop cross-platform mobile apps
 - 🛡️ Focus on secure coding practices
 - 🔍 Conduct security assessments
-- 🐧 Explore Linux systems
+- 🐧 Explore Linux system
 - 🔐 Penetration testing
 
 </div>
