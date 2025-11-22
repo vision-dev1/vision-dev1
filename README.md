@@ -47,26 +47,6 @@ I'm a passionate developer with a strong focus on building secure and robust app
 
 </div>
 
----
-
-## 💼 What I Do
-
-<img align="left" alt="Security" width="400" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
-
-<div align="right">
-  
-- 🌐 Build responsive web applications
-- 📱 Develop cross-platform mobile apps
-- 🛡️ Focus on secure coding practices
-- 🔍 Conduct security assessments
-- 🐧 Explore Linux system
-- 🔐 Penetration testing
-
-</div>
-
-<br clear="both">
-
----
 
 ## 🎯 Current Focus
 
@@ -126,11 +106,11 @@ I'm actively expanding my cybersecurity knowledge, specializing in ethical hacki
 
 <div align="center">
 
-### 🏍️ [HellBound MC](https://hellboundmc.netlify.app)
-A motorcycle club website featuring club information, events, and member profiles
+### 🔐 [KEY LOGGER](https://github.com/vision-dev1/keylogger)
+Ethical keylogger and activity monitoring tool designed specifically for Linux systems.
 
-### 💰 [Expenses Tracker](https://vision-dev1.github.io/expenses-tracker/)
-A web application to track and manage personal expenses efficiently
+### 🛜 [WIFI SECURITY AUDITOR](https://github.com/vision-dev1/wifi-security-auditor)
+WiFi Security Auditor is a powerful network scanning tool designed to identify and analyze nearby Wi-Fi networks.
 
 </div>
 
@@ -140,9 +120,10 @@ A web application to track and manage personal expenses efficiently
 
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/visionkc_kc)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/visionkc7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvisionkc.com.np&style=flat-square&logo=web&logoColor=white)](https://visionkc.com.np)
+
 
 </div>
 
