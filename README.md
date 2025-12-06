@@ -1,16 +1,17 @@
 # Hi there, I'm Vision KC 👋
+🇳🇵 Nepal
+🎓 B.CS (Hons.) Student — Cybersecurity Major
+💻 Cybersecurity Enthusiast & Web App Developer
 
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=vision-dev1&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Web+%26+App+Developer+%F0%9F%92%BB;Cybersecurity+Student+%F0%9F%94%90;Ethical+Hacker+in+Training+%F0%9F%90%A7;Building+Secure+Applications+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 👨‍💻 About Me
 
