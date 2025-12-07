@@ -3,7 +3,7 @@
 
 🎓 B.CS (Hons.) Student — Cybersecurity Major
 
-💻 Cybersecurity Enthusiast & Web App Developer
+💻 Cybersecurity Enthusiast & Web Developer
 
 <div align="center">
   
