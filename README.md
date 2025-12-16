@@ -101,16 +101,3 @@ Also works as a frontend web developer, creating clean, responsive, and user-fri
 </div>
 
 ---
-
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://visionkc.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
-
-</div>
-
----
