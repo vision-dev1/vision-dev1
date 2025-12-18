@@ -44,7 +44,7 @@ Exploring offensive security while building secure and user-focused web applicat
 
 <div align="center">
 
-[![GitHub Streak]![vision-dev1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=graywhite&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=graywhite&hide_border=true)
 
 </div>
 
@@ -70,7 +70,7 @@ Exploring offensive security while building secure and user-focused web applicat
 ## 🎯 Current Focus
 
 👨🏻‍💻 Offensive Security  
-🛡️ Web App Penetration Testing 
+🛡️ Web App Penetration Testing
 🔒 CTF Practice
 
 ---
