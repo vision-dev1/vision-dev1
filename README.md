@@ -44,7 +44,7 @@ Exploring offensive security while building secure and user-focused web applicat
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=graywhite&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=graywhite&hide_border=true)]
 
 </div>
 
@@ -60,7 +60,7 @@ Exploring offensive security while building secure and user-focused web applicat
 <summary>💻 Most Used Languages</summary>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vision-dev1&theme=nord&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vision-dev1&theme=nord&show_icons=true&hide_border=true&layout=compact)]
 
 
 </details>
@@ -72,7 +72,7 @@ Exploring offensive security while building secure and user-focused web applicat
 👨🏻‍💻 Offensive Security  
 🛡️ Web App Penetration Testing
 🔒 CTF Practice
-
+🌐Building Web Applications
 ---
 
 **Connect with me**
