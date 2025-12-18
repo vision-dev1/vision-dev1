@@ -1,103 +1,84 @@
-# Hi there, I'm Vision KC 👋
-- 🇳🇵 Nepal
-- 🎓 B.CS (Hons.) Student -- Cybersecurity
-- 💻 Cybersecurity Enthusiast & Web Developer
+# Hi, I'm Vision KC 👋
+
+**Cybersecurity & Web Developer** 🚀 | Nepal 🇳🇵
+
+Exploring offensive security while building secure and user-focused web applications.
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vision-dev1&color=blueviolet&style=flat-square&label=Profile+Views)
 
-
 </div>
 
 ---
 
+## 🛠️ Tech Stack
 
-### 👨‍💻 About Me
+**Languages**
 
-A passionate cybersecurity and ethical hacking enthusiast focused on understanding vulnerabilities, securing systems, and staying ahead of modern threats.
-Also works as a frontend web developer, creating clean, responsive, and user-friendly web interfaces with a focus on secure design.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
+**Tools & Platforms**
 
-**Currently Learning:**
-- 🐞 Vulnerability Analysis 
-- 🔓 Penetration Testing
-- 🛡️ Cyber Defense Strategies
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-<br clear="both">
+**Databases**
 
----
-
-## 🔧 Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-
-## 🎯 Current Focus
-
-- 🐞 Learning penetration testing and vulnerability assessment
-- 🔐 Improving skills in defensive security practices
-- 🌐 Building frontend web interfaces with secure design principles
-- 🔍 Exploring automation tools for cybersecurity tasks
-- 🛜 Strengthening knowledge of network security and malware behavior
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vision-dev1&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=tokyonight&hide_border=true)
+[![GitHub Streak]![vision-dev1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=graywhite&hide_border=true)
 
 </div>
 
+<details>
+<summary>📈 Contribution Stats</summary>
+<br>
+
+[![GitHub Stats](![vision-dev1's Stats](https://github-readme-stats.vercel.app/api?username=vision-dev1&theme=graywhite&show_icons=true&hide_border=true&count_private=false))]
+
+</details>
+
+<details>
+<summary>💻 Most Used Languages</summary>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vision-dev1&theme=nord&show_icons=true&hide_border=true&layout=compact)
+
+
+</details>
+
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Current Focus
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vision-dev1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+👨🏻‍💻 Offensive Security  
+🛡️ Web App Penetration Testing 
+🔒 CTF Practice
+
+---
+
+**Connect with me**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://visionkc.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visionkc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.visionn7@gmail.com)
 
 </div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vision-dev1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Vision's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vision-dev1&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
