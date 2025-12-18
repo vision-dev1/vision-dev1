@@ -70,12 +70,9 @@ Exploring offensive security while building secure and user-focused web applicat
 ## 🎯 Current Focus
 
 👨🏻‍💻 Offensive Security  
-
-🛡️ Web App Penetration Testing
-
-🔒 CTF Practice
-
-🌐 Building Web Applications
+🛡️ Web App Penetration Testing 
+🔒 CTF Practice 
+🌐 Building Web Applications 
 
 ---
 
