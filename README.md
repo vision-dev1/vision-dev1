@@ -44,7 +44,7 @@ Exploring offensive security while building secure and user-focused web applicat
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vision-dev1&theme=graywhite&hide_border=true)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=vision-dev1&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -52,7 +52,7 @@ Exploring offensive security while building secure and user-focused web applicat
 <summary>📈 Contribution Stats</summary>
 <br>
 
-[![GitHub Stats](![vision-dev1's Stats](https://github-readme-stats.vercel.app/api?username=vision-dev1&theme=graywhite&show_icons=true&hide_border=true&count_private=false))]
+![Vision's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vision-dev1&show_icons=true&theme=tokyonight&hide_border=true)
 
 </details>
 
@@ -60,7 +60,7 @@ Exploring offensive security while building secure and user-focused web applicat
 <summary>💻 Most Used Languages</summary>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vision-dev1&theme=nord&show_icons=true&hide_border=true&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vision-dev1&layout=compact&theme=tokyonight&hide_border=true)
 
 
 </details>
