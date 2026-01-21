@@ -1,8 +1,8 @@
-# Hi, I'm Vision KC 👋
+# Hi, I'm Vision KC 
 
-**Cybersecurity & Web Developer** 🚀 | Nepal 🇳🇵
+**Developer | Cybersecurity Focus**
 
-Exploring offensive security while building secure and user-focused web applications.
+Blending offensive security learning with the development of secure, user-focused web applications.
 
 <div align="center">
 
