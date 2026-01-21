@@ -66,9 +66,9 @@ Blending offensive security learning with the development of secure, user-focuse
 
 ## 🎯 Current Focus
 
-👨🏻‍💻 Offensive Security  
-🛡️ Web App Penetration Testing 
-🌐 Building Web Applications 
+**👨🏻‍💻 Offensive Security
+🛡️ Web Application Penetration Testing
+🌐 Security-First Web Development**
 
 ---
 
