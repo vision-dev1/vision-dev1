@@ -39,13 +39,29 @@ visionxstack
 
 ### ┌──(vision㉿stack)-[~/vision/stack]
 #### 💻 Languages & Environments
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) 
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash) 
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+#### ⚙️ Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi) 
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 
 #### ⚙️ Infrastructure & Platforms
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=red) ![linux](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=white) ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=red) 
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=white) 
+![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB) 
+![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 
 #### 🛡️ Cybersecurity & Offensive
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=FF6633) ![John](https://img.shields.io/badge/John-000000?style=flat-square&logo=linux&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white) 
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=FF6633) 
+![John](https://img.shields.io/badge/John-000000?style=flat-square&logo=linux&logoColor=white) 
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ---
 
