@@ -21,7 +21,7 @@ visionxstack
 
 ### ┌──(vision㉿stack)-[~/vision/about]
 > **User Ident:** visionxstack  
-> **Role:** Cybersecurity Developer & Systems Builder  
+> **Role:** Developer & Ethical Hacker  
 > **Focus:** Offensive Security, Tooling & Secure Development  
 > **Mindset:** Think like an attacker, build like an engineer.  
 
